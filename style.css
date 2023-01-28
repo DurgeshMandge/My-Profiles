@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(#0042AA, rgb(100,156,210));
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 0%;
+}
+.di{
+    margin-top: 3%;
+}
+.profile{
+    margin: 0 auto 0 auto;
+    border-style: solid;
+    border-radius: 50%;
+}
+.name{
+    margin: 15px;
+}
+.butons{
+    margin: 1% 25% 1% 25%;
+}
+.ic{
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+}
